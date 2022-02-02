@@ -29,3 +29,5 @@ Contains pixels, but does not contain the answer. The neural network can't check
 Contains layer weights. You may initialize neural network from this file. It has about 90% accuracy.
 #### learningData.txt
 62MB file. Contains data to train and test neural network.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=l3odr0id.neural-network-for-numbers) <!-- set 02.02.2022 -->
